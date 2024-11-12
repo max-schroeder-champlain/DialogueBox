@@ -1,0 +1,11 @@
+**HOW TO USE**
+KEY
+DIALOGUE TEXT
+** **
+
+TEST1
+Hello Player.
+TEST2
+It's me, Max.
+TEST3
+I hate you!
